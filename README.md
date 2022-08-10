@@ -1,0 +1,5 @@
+# modbusServer
+树莓派模拟modbus下位机
+
+树莓派连接dht11和LED灯二极管模拟modbus协议下位机
+通过modbus协议远程控制树莓派
